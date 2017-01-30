@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "bin": {
-    "test-module-exec": "bin/seed-proxy.js"
+    "seed-proxy": "bin/seed-proxy.js"
   },
   "main" : "index.js",
   "preferGlobal": "true",
