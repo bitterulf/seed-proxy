@@ -1,6 +1,6 @@
 {
   "name": "seed-proxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "bin": {
     "seed-proxy": "bin/seed-proxy.js"
