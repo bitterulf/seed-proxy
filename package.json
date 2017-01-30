@@ -1,0 +1,27 @@
+{
+  "name": "seed-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "test-module-exec": "bin/seed-proxy.js"
+  },
+  "main" : "index.js",
+  "preferGlobal": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitterulf/seed-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitterulf/seed-proxy/issues"
+  },
+  "homepage": "https://github.com/bitterulf/seed-proxy#readme",
+  "dependencies": {
+    "http-proxy": "^1.16.2",
+    "random-seed": "^0.3.0"
+  }
+}
